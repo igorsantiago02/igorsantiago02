@@ -5,7 +5,7 @@ Estudante de **Engenharia Biomédica na UFRN** e bacharel em **Ciências e Tecno
 - 🌊 Criei e mantenho o **[Evolution El Niño no BR](https://evolution-el-nino-br.onrender.com)**, um painel que acompanha o El Niño e os impactos dele no Brasil, atualizado automaticamente todo dia
 - 🏙️ Criei o **[FiscalizaAI](https://fiscaliza-ai-sga.vercel.app)**, plataforma cidadã para registrar e acompanhar problemas urbanos em São Gonçalo do Amarante/RN
 - 📈 Pesquiso **finanças quantitativas** no grupo QuantInovarum (UFRN)
-- 🎯 Interesses: ciência de dados, clima, finanças quantitativas e mestrado
+- 🎯 Interesses: ciência de dados, análise de dados, clima, finanças quantitativas e mestrado
 
 ### Projetos
 
