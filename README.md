@@ -12,7 +12,7 @@ Estudante de **Engenharia Biomédica na UFRN** e bacharel em **Ciências e Tecno
 | Projeto | O que é | Tecnologias |
 |---|---|---|
 | **[Evolution El Niño no BR](https://evolution-el-nino-br.onrender.com)** · [código](https://github.com/igorsantiago02/evolution-el-nino-br) | Globo 3D com a temperatura do mar, índice de influência do El Niño por estado, rios e avisos do INMET. Coleta dados da NOAA, CPTEC/INPE, NASA, ANA e INMET o dia inteiro | Node.js, JavaScript, Leaflet, globe.gl, ECharts |
-| **[FiscalizaAI](https://fiscaliza-ai-sga.vercel.app)** | Ocorrências urbanas com mapa interativo, validação de CEP, protocolo de acompanhamento e painel de gestão | React, Vite, Leaflet, Recharts, Express, PostgreSQL |
+| **[FiscalizaAI](https://fiscaliza-ai-sga.vercel.app)** · [código](https://github.com/igorsantiago02/FiscalizaAI) | Ocorrências urbanas com mapa interativo, validação de CEP, protocolo de acompanhamento e painel de gestão | React, Vite, Leaflet, Recharts, Express, PostgreSQL |
 | **[Backtest da Grande Depressão (1924–1935)](https://github.com/igorsantiago02/backtest-grande-depressao-1924-1935)** | Backtest walk-forward em dados simulados do mercado americano, com código para reproduzir o artigo | Python, pandas, NumPy, Matplotlib, Jupyter |
 | **[Engenharia Biomédica UFRN](https://eng-bio-site.vercel.app)** · [código](https://github.com/igorsantiago02/Eng_bio_site) | Proposta de redesign do site do curso, com navegação por público e central da graduação | React, Vite, TypeScript |
 
