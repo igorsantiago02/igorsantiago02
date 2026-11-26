@@ -26,6 +26,8 @@ Estudante de **Engenharia Biomédica na UFRN** e bacharel em **Ciências e Tecno
 
 `Python` `pandas` `NumPy` `Plotly` `Streamlit` `Matplotlib` `Jupyter` `JavaScript` `TypeScript` `Node.js` `React` `Vite` `Leaflet` `PostgreSQL` `Git` `Power BI`
 
+**Testes e qualidade:** `pytest` `Vitest` `Testing Library` `node:test` `Playwright` `GitHub Actions`. Todos os projetos acima têm testes automatizados rodando a cada envio.
+
 ### Contato
 
 [LinkedIn](https://www.linkedin.com/in/igor-santiago-68a74a343/) · Natal/RN
